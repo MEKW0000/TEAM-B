@@ -15,4 +15,4 @@ c=`bash ./script3.sh $b`
 # -5する
 d=`bash ./script4.sh $c`
 
-
+echo '入力した数字は'$d'です。'
